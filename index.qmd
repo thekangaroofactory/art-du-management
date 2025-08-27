@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+xxx
+
+------------------------------------------------------------------------
+
+Please cite this work as:
+
+Peret Philippe (2025). "Mastering Communication Between Shiny Modules". <https://thekangaroofactory.github.io/communication-between-shiny-modules/>
