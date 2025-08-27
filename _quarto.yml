@@ -1,6 +1,8 @@
 project:
   type: book
 
+language: fr
+
 book:
   title: "L'Art ~~de la guerre~~ du Management"
   author: 
