@@ -12,10 +12,10 @@ book:
     footer: "</br>[![](image/by-nc-sa.png){height=42px}](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   chapters:
     - index.qmd
-    - introduction.qmd
-    - part: "xxx"
-      chapters: 
-      - xxx.qmd
+    # - introduction.qmd
+    # - part: "xxx"
+    #   chapters: 
+    #   - xxx.qmd
     #- conclusion.qmd
     #- references.qmd
   #appendices:
