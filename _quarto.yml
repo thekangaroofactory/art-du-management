@@ -15,13 +15,13 @@ book:
     # - introduction.qmd
     - part: "1"
       chapters:
-      - partie_1/part-one-intro.qmd
+      - part-one-intro.qmd
       - part-one-intro.qmd
       - conditions-meteorologiques-terrain.qmd
       - commandement.qmd
       - doctrine.qmd
       - influence-morale.qmd
-      - partie_1/part-one-conclusion.qmd
+      - part-one-conclusion.qmd
     - part: "2"
       chapters:
       - xxx.qmd
