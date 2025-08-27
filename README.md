@@ -1,2 +1,1 @@
-# art-du-management
-L'Art du Management
+# L'Art ~~de la guerre~~ du Management
