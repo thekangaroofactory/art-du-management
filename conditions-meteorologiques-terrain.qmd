@@ -1,0 +1,40 @@
+# Les conditions météorologiques et le terrain
+
+Si la notion de conditions météorologiques peut prêter à sourire, il n’en reste pas moins que, de même que l’on n’improvise pas une sortie en mer en pleine tempête, on ne lance par une action ou un projet si les conditions ne sont pas favorables.
+
+Historiquement <!--# bof... supprimer ou revoir --> , la météorologie étudie les « phénomènes physiques se produisant au-dessus de la surface du sol »[^conditions-meteorologiques-terrain-1]
+
+[^conditions-meteorologiques-terrain-1]: Définition encyclopédie Larousse en ligne
+
+Xxx état d’esprit ?
+<!--# développer -->
+
+« Par terrain, j’entends les distances, la facilité ou la difficulté de les parcourir, \
+le caractère vaste ou resserré du terrain et les chances de vie ou de mort \
+qu’il offre. 
+»
+
+Dans un projet, la phase de cadrage consiste à faire un état des lieux de la situation actuelle, une description détaillée des objectifs, et le meilleur chemin pour aller de l’une à l’autre.
+
+En réalité, ce principe peut s’appliquer à toute action puisque celle-ci vise par définition à aller de l’existant vers un objectif.
+
+Or non seulement l’objectif doit être défini avec soin, mais l’analyse de l’existant et la mise en place de solutions doivent être menée avec tout autant d’attention.
+On peut donc parler de terrain, de distances jusqu’à l’objectif mais également de la probabilité d’y parvenir.
+
+Par terrain, j’entends les distances qui séparent l’existant de l’objectif, la facilité ou la difficulté de les parcourir et les chances de réussite ou d’échec qu’il offre.
+
+Ce dernier point est d’ailleurs crucial.
+D’une façon générale, les objectifs sont la plupart du temps défini avec soin (ils découlent le plus souvent d’une stratégie globale de l’entreprise, une vision à deux, trois, cinq ans).
+On ne peut pas en dire autant des distances qui séparent la situation actuelle de l’objectif.
+Trop souvent, l’étape qui consiste à évaluer avec soin la distance qui sépare de l’objectif – et donc l’effort et les moyens nécessaires pour la couvrir – est reléguée au rang d’option et on préfère la remplacer par la définition arbitraire d’une date cible (et donc le délai qui va avec).
+
+Seulement ensuite vient l’analyse des étapes à franchir pour parvenir à l’objectif, et une feuille de route est définie non pas en fonction des efforts à fournir et des ressources disponibles, mais du temps restant pour parvenir à l’objectif avant la date cible.
+
+On appelle cela le rétro-engineering.
+
+Bien sûr, nous ne pouvons ignorer les enseignements de la « loi de Parkinsons » [\[1\]](#_ftn1) selon laquelle un travaille occupe tout le temps disponible pour l’accomplir, mais l’inverse n’est pas pour autant automatique.
+Si définir une date cible permet de lutter contre les effets décrits dans cette loi, il est évident qu’une date cible définie arbitrairement et sans lien avec les efforts nécessaires à effectuer le travail ou sans chercher à comprendre les difficultés annihile les chances de réussite.
+
+[\[1\]](#_ftnref1) The Economist - https://www.economist.com/news/1955/11/19/parkinsons-law
+
+Etendre sur la légitimité / respect du management si les décisions sont prises de cette façon ?

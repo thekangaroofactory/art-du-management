@@ -1,6 +1,23 @@
-# Preface {.unnumbered}
+# Préface {.unnumbered}
 
-xxx
+::: callout-warning
+Ce chapitre n'est pas rédigé, ce ne sont que des notes.
+:::
+
+Motivations
+
+Observation à de maintes reprises au cours de ma carrière de méthode de management qui conduisent – même si on peut raisonnablement penser que ce n’est pas l’objectif initial – à démotiver les équipes, étouffer la créativité et aboutissent à produire des résultats d’un niveau très moyen voir passable, en particulier comparé à la volonté affichée.
+
+J’ai essayé de décrypter les mécanismes qui conduisent à reproduire indéfiniment ces schémas et même cherché à les empêcher.
+
+C’est à l’occasion d’une de ces périodes où l’on est amené à s’interroger sur la suite de notre carrière que j’ai relu l’art de la guerre et commencé à dresser un parallèle entre les thèmes abordé dans ce texte militaire du xxx siècle (note à propos de l’origine du texte) et la pratique actuelle du management.
+
+L’objectif initial n’est pas d’écrire un livre de management, mais de dresser des parallèles entre ce texte de doctrine militaire vieux de xxx ans et l’observation du management tel qu’il est pratiqué actuellement dans les grandes entreprises.
+
+Nous allons parcourir ce texte en dressant ces parallèles… blablabla\
+Je vais proposer une interprétation / traduction de différentes citations dans le monde du travail.
+
+Un mot sur le côté étonnant de corréler un texte militaire à une discipline qui implique les ressources humaines \>\> mais il y a une guerre de l’ombre dans les entreprises, en particulier les plus grandes par la taille, une guerre pour son plan de carrière, une guerre d’influence, une guerre de légitimité.\
 
 ------------------------------------------------------------------------
 

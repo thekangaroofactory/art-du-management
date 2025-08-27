@@ -1,0 +1,78 @@
+Matière première :
+
+Si nous avons déjà entendu parler de précipitation dans la guerre, nous n’avons pas encore vu d’opération habile qui trainât en longueur.
+
+Ainsi, ceux qui sont incapables de comprendre les dangers inhérents à l’utilisation des troupes sont également incapables de comprendre la façon de s’en servir avec avantage.
+
+Si le général est incapable de contenir son impatience et s’il ordonne à ses hommes de s’agglomérer aux alentours du mur comme un essaim d’abeilles, un tiers d’entre eux seront tués sans que la ville soit prise.
+
+Votre but doit être de prendre intact « tout ce qui est sous le ciel ».
+De cette façon, vos troupes resteront fraiches et votre victoire sera totale.
+Tel est l’art de la stratégie offensive.
+
+Lorsque vous possédez la supériorité à dix contre un, encerclez l’ennemi A cinq contre un, attaquez le A deux contre un, divisez-le Lorsque numériquement, vous avez le dessous, soyez capable de battre en retraite
+
+Or le général est le protecteur de l’état.
+Si cette protection s’étend à tout, l’état sera sûrement fort ; si elle présente des lacunes, il sera certainement faible.
+
+Il faut savoir que, pour un Souverain, il existe trois moyens d’attirer l’infortune sur son armée : - Ignorant que l’armée ne doit pas avancer et ordonner une avance, ou bien ignorant qu’elle ne doit pas reculer, ordonner un recul.
+C’est ce qu’on appelle mettre l’armée dans un mauvais pas.
+- Ignorant tout des affaires militaires, participer à leur administration.
+Cela désoriente les officiers.
+- Ignorant tout des problèmes de commandement, avoir part à l’exercice des responsabilités.
+Cela tue la confiance dans l’esprit des officiers.
+
+Il n’est pas de pire calamité que des ordres émanant du Souverain qui siège à la cour.
+
+Celui qui sait quand il faut combattre et quand il ne le faut pas sera victorieux.
+
+Celui qui sait comment utiliser une armée importante et une armée restreinte sera victorieux.
+
+Celui dont les troupes sont unies autour d’un objectif commun sera victorieux.
+
+Celui qui est prudent et attend un ennemi qui ne l’est pas sera victorieux Celui qui a des généraux compétents et à l’abris de l’ingérence du Souverain sera victorieux.
+
+Connaissez l’ennemi et connaissez-vous vous-même ; en cent batailles vous ne courrez jamais aucun danger.
+Si vous êtes à la fois ignorant de l’ennemi et de vous-même, vous êtes sûr de vous trouver en péril à chaque bataille.
+
+Les victoires remportées par un maitre de l’art militaire ne valaient à celui-ci ni une réputation de sagesse, ni le mérite de la vaillance.
+Car il emporte ses victoires sans errements.
+« Sans errements » signifie que, quoi qu’il fasse, il s’assure la victoire ; il vainc un ennemi déjà défait.
+
+D’une façon générale, commander de nombreuses personnes c’est la même chose que d’en commander quelques-unes.
+C’est une question d’organisation.
+Un homme, c’est un simple soldat.
+Cinq hommes sont une escouade.
+Deux escouades forment une section, deux sections font un peloton, etc…
+
+En règle générale, dans la bataille, utilisez la force ordinaire pour engager le combat ; utiliser la force extraordinaire pour remporter la victoire Au combat, seules existent les forces ordinaires et les forces extraordinaires, mais leurs combinaisons sont infinies.
+
+C’est pourquoi un chef d’armée qualifié demande la victoire à la situation et non à ses subordonnés.
+
+Il choisit ses hommes, qui eux tirent parti de la situation.
+Or, le vaillant sait se battre ; le prudent, se défendre ; et le sage, conseiller.
+Il n’est dont personne dont le talent soit gaspillé.
+
+Généralement, celui qui occupe le terrain le premier et attend l’ennemi est en position de force ; celui qui arrive sur les lieux plus tard et se précipite au combat est déjà affaibli.
+
+Rendez-vous compte des points sur lesquels il est en force et de ceux où il est déficient.
+
+Normalement, lorsqu’il est fait usage de la force armée, le général reçoit d’abord les ordres du Souverain.
+Il rassemble les troupes et mobilise la population.
+Il fait de l’armée un tout homogène et harmonieux et l’installe dans son camp.
+
+Rien n’est plus difficile que l’art de la manœuvre.
+La difficulté en cette matière consiste à faire d’une voie tortueuse la route la plus directe et à changer la malchance en avantage.
+
+Pesez la situation puis agissez.
+
+Notes
+
+Agile n’est pas compatible avec le management vertical descendant.
+Il faut accepter de déléguer la responsabilité opérationnelle au niveau de l’équipe Agile :
+
+-   Ne pas utiliser les ressources pour faire plaisir au management
+-   La laisser travailler en autonomie
+-   Fixer des objectifs macro et faire un point régulier
+-   Affecter les ressources nécessaires et respecter cette affectation !
+-   Ne pas exiger de feuille de route détaillée, laisser l’équipe s’adapter au changement
