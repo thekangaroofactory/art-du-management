@@ -16,7 +16,6 @@ book:
     - part: "1"
       chapters:
       - part-one-intro.qmd
-      - part-one-intro.qmd
       - conditions-meteorologiques-terrain.qmd
       - commandement.qmd
       - doctrine.qmd
