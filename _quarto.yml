@@ -46,11 +46,11 @@ bibliography: references.bib
 
 format:
   html:
-    respect-user-color-scheme: true
     link-external-newwindow: true
+    respect-user-color-scheme: true
     theme:
-      - cosmo
-      - brand
+      dark: darkly
+      light: cosmo
   pdf:
     documentclass: scrreprt
 
