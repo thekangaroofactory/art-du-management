@@ -23,4 +23,6 @@ Un mot sur le côté étonnant de corréler un texte militaire à une discipline
 
 Please cite this work as:
 
-Peret Philippe (2025). "Mastering Communication Between Shiny Modules". <https://thekangaroofactory.github.io/communication-between-shiny-modules/>
+Peret Philippe (2025).
+"Mastering Communication Between Shiny Modules".
+<https://thekangaroofactory.github.io/communication-between-shiny-modules/>
