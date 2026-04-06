@@ -19,7 +19,7 @@ book:
     - index.qmd
     - preface.qmd
     - introduction.qmd
-    - part: "1"
+    - part: "Première Partie"
       chapters:
       - part-one-intro.qmd
       - conditions-meteorologiques-terrain.qmd
@@ -27,7 +27,7 @@ book:
       - doctrine.qmd
       - influence-morale.qmd
       - part-one-conclusion.qmd
-    - part: "2"
+    - part: "Deuxième Partie"
       chapters:
       - xxx.qmd
       - yyy.qmd

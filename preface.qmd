@@ -1,6 +1,4 @@
----
-title: "preface"
----
+# Preface {.unnumbered}
 
 Je ne sais si je suis ou si j'ai été un bon manager.
 
