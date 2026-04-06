@@ -3,6 +3,9 @@ project:
 
 lang: fr
 
+language: 
+  title-block-author-single: "Auteur"
+
 book:
   title: "L'Art ~~de la guerre~~ du Management"
   author: 
