@@ -1,5 +1,3 @@
----
-title: "index"
----
+# dummy {.unnumbered}
 
 A priori une page vide avec le titre.
